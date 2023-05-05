@@ -4,7 +4,7 @@
 Here are some ideas to get you started:
 
 - 🔭 Data Enginner
-- 🌱 Currently learning Flink，Python
+- 🌱 Currently learning Math & Python
 - 🤔 Think how to start a company
 - 💻 5 years' development working experience.
 - ✍🏻 I write my presonal thoughts

@@ -59,21 +59,21 @@ motto: "Life's not a race, but there's no speed limit either."
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=christma&theme=vision_friendly_dark&title_color=ffffff&text_color=c9d1d9&icon_color=ffffff&chart_color=ffffff" alt="Profile details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=christma&theme=chartreuse_dark&border_color=808080&title_color=ffffff&text_color=c9d1d9&icon_color=ffffff&chart_color=ffffff" alt="Profile details" />
 </p>
 
 <p align="center">
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=christma&theme=vision_friendly_dark&title_color=ffffff&text_color=c9d1d9&icon_color=ffffff&chart_color=ffffff" alt="Stats" />
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=christma&theme=vision_friendly_dark&title_color=ffffff&text_color=c9d1d9&icon_color=ffffff&chart_color=ffffff" alt="Most commit language" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=christma&theme=chartreuse_dark&border_color=808080&title_color=ffffff&text_color=c9d1d9&icon_color=ffffff&chart_color=ffffff" alt="Stats" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=christma&theme=chartreuse_dark&border_color=808080&title_color=ffffff&text_color=c9d1d9&icon_color=ffffff&chart_color=ffffff" alt="Most commit language" />
 </p>
 
 <p align="center">
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=christma&theme=vision_friendly_dark&title_color=ffffff&text_color=c9d1d9&icon_color=ffffff&chart_color=ffffff" alt="Repos per language" />
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=christma&theme=vision_friendly_dark&title_color=ffffff&text_color=c9d1d9&icon_color=ffffff&chart_color=ffffff&utcOffset=8" alt="Productive time" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=christma&theme=chartreuse_dark&border_color=808080&title_color=ffffff&text_color=c9d1d9&icon_color=ffffff&chart_color=ffffff" alt="Repos per language" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=christma&theme=chartreuse_dark&border_color=808080&title_color=ffffff&text_color=c9d1d9&icon_color=ffffff&chart_color=ffffff&utcOffset=8" alt="Productive time" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=christma&theme=dark&background=000000&hide_border=true&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&currStreakLabel=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=9E9E9E&stroke=333333&locale=en" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com/?user=christma&theme=dark&background=000000&border=808080&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&currStreakLabel=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=9E9E9E&stroke=333333&locale=en" alt="GitHub streak" />
 </p>
 
 ### 🐍 Contribution Snake

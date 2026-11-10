@@ -1,11 +1,11 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:3d59a1,100:70a5fd&height=200&section=header&text=Hi%20there%2C%20I'm%20Christma%20%F0%9F%91%8B&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Data%20Engineer%20%C2%B7%20Shanghai&descAlignY=58&descSize=18&animation=fadeIn" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=200&section=header&text=Hi%20there%2C%20I'm%20Christma%20%F0%9F%91%8B&fontSize=40&fontColor=9745f5&fontAlignY=38&desc=Data%20Engineer%20%C2%B7%20Shanghai&descAlignY=58&descSize=18&animation=fadeIn" alt="header" />
 </p>
 
 <p align="center">
   <a href="https://github.com/christma">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&duration=3500&pause=800&color=70A5FD&center=true&vCenter=true&width=620&height=50&lines=Data+Engineer+%F0%9F%94%AD;Flink+%C2%B7+Kafka+%C2%B7+Hadoop+%C2%B7+Spark;Currently+learning+Math+%26+Python+%F0%9F%8C%B1;Life's+not+a+race%2C+but+there's+no+speed+limit+either." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&duration=3500&pause=800&color=9745F5&center=true&vCenter=true&width=620&height=50&lines=Data+Engineer+%F0%9F%94%AD;Flink+%C2%B7+Kafka+%C2%B7+Hadoop+%C2%B7+Spark;Currently+learning+Math+%26+Python+%F0%9F%8C%B1;Life's+not+a+race%2C+but+there's+no+speed+limit+either." alt="Typing SVG" />
   </a>
 </p>
 
@@ -60,21 +60,21 @@ motto: "Life's not a race, but there's no speed limit either."
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=christma&theme=tokyonight" alt="Profile details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=christma&theme=midnight_purple" alt="Profile details" />
 </p>
 
 <p align="center">
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=christma&theme=tokyonight" alt="Stats" />
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=christma&theme=tokyonight" alt="Most commit language" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=christma&theme=midnight_purple" alt="Stats" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=christma&theme=midnight_purple" alt="Most commit language" />
 </p>
 
 <p align="center">
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=christma&theme=tokyonight" alt="Repos per language" />
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=christma&theme=tokyonight&utcOffset=8" alt="Productive time" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=christma&theme=midnight_purple" alt="Repos per language" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=christma&theme=midnight_purple&utcOffset=8" alt="Productive time" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=christma&theme=tokyonight&hide_border=true&locale=en" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com/?user=christma&theme=dark&background=000000&hide_border=true&ring=9745F5&fire=9745F5&currStreakLabel=9745F5&locale=en" alt="GitHub streak" />
 </p>
 
 ### 🐍 Contribution Snake
@@ -89,5 +89,5 @@ motto: "Life's not a race, but there's no speed limit either."
 
 <!-- Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:70a5fd,50:3d59a1,100:1a1b27&height=120&section=footer" alt="footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer" alt="footer" />
 </p>
